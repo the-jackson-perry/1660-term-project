@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Created-By: Jackson Perry
+Class-Path: TopN.jar commons-cli-1.2.jar commons-logging-1.2.jar hadoop-common-2.6.0-cdh5.15.1.jar hadoop-mapreduce-client-core-2.6.0-cdh5.15.1.jar
+Main-Class: TopN
