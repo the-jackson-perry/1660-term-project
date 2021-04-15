@@ -1,3 +1,7 @@
+#Video Demo and Code Walkthough Link
+https://vimeo.com/537071103
+
+
 #Setup Instructions (OS: windows)
 
 ##1) Setting up cloud stuff part 1
